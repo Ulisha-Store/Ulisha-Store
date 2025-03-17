@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ulishastore.com/sitemap.xml
